@@ -1,0 +1,33 @@
+{
+	"GeneratedByInfo": {
+		"mfilename": "LFUtilProcessWhiteImages",
+		"time": "13Apr2020_172412",
+		"VersionStr": "v0.5.0 pre-release"
+	},
+	"GridModelOptions": {
+		"Orientation": "horz",
+		"FilterDiskRadiusMult": 0.3333333333,
+		"CropAmt": 25,
+		"SkipStep": 250,
+		"ApproxLensletSpacing": 14.28571419
+	},
+	"CamInfo": {
+		"ZoomStep": -1000,
+		"FocusStep": 350,
+		"ExposureDuration": 0.007224245071,
+		"CamSerial": "B5143300780",
+		"CamModel": "B01",
+		"Fname": "B5143300780/WhiteImages/MOD_0006.TXT"
+	},
+	"LensletGridModel": {
+		"HSpacing": 14.28840273,
+		"VSpacing": 12.37527872,
+		"HOffset": 6.580927032,
+		"VOffset": 12.07373054,
+		"Rot": -0.004470406749,
+		"Orientation": "horz",
+		"FirstPosShiftRow": 2,
+		"UMax": 541,
+		"VMax": 433
+	}
+}
